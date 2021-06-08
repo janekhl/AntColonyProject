@@ -11,9 +11,9 @@ The scouts and enemy ants move completely randomly.
 
 The soldiers move randomly unless a node by them has an enemy ant.
 
-Once you build and run the project, make sure the GUI is full screen.
-
 # To Run:
+
+Once you build and run the project, make sure the GUI is full screen.
 
 The GUI I was provided is very large so its better to scroll down to the center of it and click Normal Setup in the header area.
 
